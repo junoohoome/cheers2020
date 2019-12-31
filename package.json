@@ -8,6 +8,11 @@
     "docs:build": "vuepress build docs"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "fangjunqiang",
+  "license": "ISC",
+  "devDependencies": {
+    "markdown-it-include": "^1.1.0",
+    "vuepress": "1.0.4"
+  },
+  "dependencies": {}
 }
