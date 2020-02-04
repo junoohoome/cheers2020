@@ -16,10 +16,6 @@ module.exports = {
         link: '/bookmarks/'
       },
       {
-        text: '常用软件',
-        link: '/software/'
-      },
-      {
         text: 'Java',
         link: '/java/'
       }          
