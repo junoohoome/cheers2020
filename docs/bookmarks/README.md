@@ -56,6 +56,7 @@
 
 ##   软件类
 
+- [uTools: 你的生产力工具集,具有内网穿透小插件](https://www.u.tools/)
 - [Q-Dir: 文件管理，多个窗口叠加](https://q-dir.en.softonic.com/)
 - [Listary: 文件搜索](https://www.listary.com/)
 - [Snipaste: 截屏神器](https://www.snipaste.com/)
