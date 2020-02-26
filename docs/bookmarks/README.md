@@ -37,6 +37,7 @@
 
 
 ##  网站类
+- [微信读书](https://weread.qq.com/)
 - [极客时间](https://time.geekbang.org/)
 - [GitChat](https://gitbook.cn/)
 - [Process On](https://www.processon.com/)
