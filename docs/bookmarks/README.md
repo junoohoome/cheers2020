@@ -45,6 +45,7 @@
 - [runoob](https://www.runoob.com/)
 - [开源中国](https://www.oschina.net/project/java)
 - [大力盘搜](https://www.dalipan.com/)
+- [看云：专注于文档在线创作、协作和托管](https://www.kancloud.cn/)
 - [Coursera](https://zh.coursera.org/)
 - [ted](https://www.ted.com/)
 - [duolinguo](http://www.duolingo.cn/)
