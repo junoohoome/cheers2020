@@ -1,5 +1,18 @@
 # 书签
 
+## 常用技术官网
+
+- [spring](https://spring.io/)
+- [Jakarta Bean Validation](https://beanvalidation.org/)
+- [菜鸟](https://www.runoob.com/)
+- [xxl-job](https://www.xuxueli.com/xxl-job/)
+- [Homebrew](https://formulae.brew.sh/)
+- [webpack](https://v4.webpack.docschina.org/)
+- [Hutool](https://www.hutool.cn/docs/#/)
+- [IDEA-help](https://www.jetbrains.com/help/idea/2020.3/installation-guide.html)
+- [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba/wiki/Nacos-config)
+
+
 ## Awesome Spring Boot
 
 - [Spring Boot 中文索引](http://springboot.fun/)

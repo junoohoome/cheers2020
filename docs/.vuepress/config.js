@@ -16,9 +16,17 @@ module.exports = {
         link: '/bookmarks/'
       },
       {
+        text: '命令',
+        link: '/command/'
+      },
+      {
         text: 'Java',
         link: '/java/'
-      }          
+      },
+      {
+        text: '项目',
+        link: '/project/'
+      }              
     ],
     sidebar: 'auto',
     sidebarDepth: 2,

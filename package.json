@@ -13,6 +13,5 @@
   "devDependencies": {
     "markdown-it-include": "^1.1.0",
     "vuepress": "1.0.4"
-  },
-  "dependencies": {}
+  }
 }
