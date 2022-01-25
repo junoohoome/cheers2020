@@ -13,18 +13,12 @@
 - [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba/wiki/Nacos-config)
 
 
-## Awesome Spring Boot
+## Awesome 
 
+- [awesome-java](https://github.com/CodingDocs/awesome-java)
 - [Spring Boot 中文索引](http://springboot.fun/)
-- [Springboot + Redis + 注解 + 拦截器实现接口幂等性校验](https://www.ydyno.com/archives/1183.html)
-- [Spring Boot 自定义异步线程池的两种方式](https://www.ydyno.com/archives/1199.html)
-
-
-
-## Awesome Vue
-
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue)
-- [**vue-element-admin**](https://github.com/PanJiaChen/vue-element-admin)
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 - [EL-ADMIN 后台管理系统](https://github.com/elunez/eladmin)
 - [element-ui](https://element.eleme.cn/#/zh-CN/guide/design)
 - [Vue.js](https://cn.vuejs.org/v2/guide/)
