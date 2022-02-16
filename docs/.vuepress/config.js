@@ -31,16 +31,16 @@ module.exports = {
                 text: 'Notebook',
                 ariaLabel: 'Notebook',
                 items: [
-                    { text: '2020', link: '/notebook/2020/' },
-                    { text: '2021', link: '/notebook/2021/' }
+                    { text: '2021', link: '/notebook/2021/' },
+                    { text: '2022', link: '/notebook/2022/' }
                 ]
             },
             {
                 text: 'Favorite',
                 ariaLabel: 'Favorite',
                 items: [
-                    { text: '2020', link: '/favorite/2020/' },
-                    { text: '2021', link: '/favorite/2021/' }
+                    { text: '2021', link: '/favorite/2021/' },
+                    { text: '2022', link: '/favorite/2022/' }
                 ]
             }
         ],
